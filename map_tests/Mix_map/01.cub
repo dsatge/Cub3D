@@ -1,0 +1,18 @@
+EA ./textures/dark_texture.xpm
+WE ./textures/mid_dark_texture.xpm
+NO ./textures/texture_north.xpm
+SO ./textures/mold_texture.xpm
+
+C 155,100,160
+F 111,111,111
+
+ 11111111
+1000000001
+1000000001
+1000000001
+10000N0001
+1000000001
+1000000001
+1000000001
+1000000001
+ 11111111

@@ -1,0 +1,9 @@
+F 53,53,53
+C 1,1,1
+EA ./textures/texture_east.xpm
+WE ./textures/eagle.xpm
+NO ./textures/color_stone.xpm
+SO ./textures/mold_texture.xpm
+111
+1E1
+111
